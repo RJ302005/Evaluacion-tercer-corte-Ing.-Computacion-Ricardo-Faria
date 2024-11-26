@@ -1,0 +1,11 @@
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\bin\Debug\Bilioteca.mdb
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\LABPC\Desktop\Evaluación Ricardo Faría\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
